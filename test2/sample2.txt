@@ -1,2 +1,3 @@
 my sample 2 txt
 for git
+this is for git
