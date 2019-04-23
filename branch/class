@@ -1,6 +1,17 @@
+<<<<<<< HEAD
  devops
 appending
 ihi im from infosy
  devo
 hi im new commit
 master
+=======
+ HEAD
+ devops
+appending
+ihi im from infosys
+ devo
+hi im new commit
+ master
+ commit in git clone
+>>>>>>> fd0c2aebaff8c57339f3632acc90adab1ffbecf2
