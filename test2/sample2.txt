@@ -1,2 +1,0 @@
-my sample 2 txt
-for git
